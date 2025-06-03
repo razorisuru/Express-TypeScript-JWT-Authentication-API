@@ -23,7 +23,7 @@ A secure and robust authentication API built with Express.js and TypeScript, fea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/express-ts-jwt-auth.git
+git clone https://github.com/razorisuru/express-ts-jwt-auth.git
 cd express-ts-jwt-auth
 ```
 
